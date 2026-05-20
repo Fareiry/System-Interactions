@@ -1,0 +1,6 @@
+{
+  "mod.system_interactions": "System Interactions",
+  "commands.system_interactions.sent.dialog": "Sent system dialog to %s player(s).",
+  "commands.system_interactions.sent.toast": "Sent Windows notification to %s player(s).",
+  "commands.system_interactions.sent.unknown": "Sent system interaction to %s player(s)."
+}
