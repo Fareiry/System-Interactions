@@ -1,6 +1,0 @@
-{
-  "mod.system_interactions": "System Interactions",
-  "commands.system_interactions.sent.dialog": "Системное окно отправлено %s игрок(ам).",
-  "commands.system_interactions.sent.toast": "Windows-уведомление отправлено %s игрок(ам).",
-  "commands.system_interactions.sent.unknown": "Системное взаимодействие отправлено %s игрок(ам)."
-}
